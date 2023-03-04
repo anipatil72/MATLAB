@@ -1,3 +1,3 @@
 # MATLAB
-Solution to a ID Beam Problem using MATALB
+Solution to a 1D Beam Problem using MATALB
 
